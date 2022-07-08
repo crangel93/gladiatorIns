@@ -1,0 +1,24 @@
+header img{
+    float:left;
+}header nav{
+    display:inline-block;
+}header nav ul li{
+    list-style:none;
+    float:left;
+    margin: 25px 40px 0 0;
+    text-decoration:none;
+    
+}header nav ul li a{
+    text-decoration: none;
+    color:black;
+    font-size:35px;
+}
+.guy{
+    float:right;
+    width:15%;
+}footer{
+    border: 45px solid black;
+    
+margin: 0 auto 0 auto;
+clear:both;
+}
